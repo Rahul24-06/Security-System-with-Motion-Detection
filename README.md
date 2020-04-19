@@ -106,9 +106,11 @@ To make these connections, I've used separate connectors for power, relay output
 ![Connector](./images/con2.png)
 
 Since the output from the pyro sensor is a digital signal, we connect the KEMET pyro sensor to the GPIO Pin 15 of Raspberry Pi.
+
 ![Raspberry Pi with SD card](./images/rpi1.png)
 
 The Pinout of the SS-430 pyroelectric sensor is given below
+
 ![SS-430 pinout](./images/pin.png)
 
 The connection is made as shown below.
@@ -312,12 +314,15 @@ while True:
 ![Enclosure](./images/box1.png)
 
 * A small section is needed to attach the SS-430 pyro sensor to the project. I have adhered the sensor to the Indicator firmly as shown below.
+
 ![Enclosure](./images/box2.png)
 
 * Make sure that the required wires/connects are soldered to the raspberry pi. This is a crucial part to meet the size of the device. I have used the terminal block connector to make the common connections. One end of the wires is soldered to the Raspberry Pi.
+
 ![Enclosure](./images/box3.png)
 
 * Now Insert the device inside the enclosure and It would look something like this
+
 ![Setup 1](./images/setup1.png)
 ![Setup 2](./images/setup2.png)
 
@@ -329,10 +334,10 @@ To test the real-time scenario, we deployed it on one of the jewelry shops to te
 [![Working Video](./images/youtube.png)](https://www.youtube.com/watch?v=kC7vu-Tcuws "Working of the Project - Click to Watch!")
 
 
-**If you faced any issues in building this project, feel free to ask me. Please do suggest new projects that you want me to do next. **
+*If you faced any issues in building this project, feel free to ask me. Please do suggest new projects that you want me to do next.*
 
-**Share this video if you like. **
+*Share this video if you like.*
 
-**Happy to have you subscribed: https://www.youtube.com/c/rahulkhanna24june?sub_confirmation=1 **
+*Happy to have you subscribed: https://www.youtube.com/c/rahulkhanna24june?sub_confirmation=1*
 
-**Thanks for reading! **
+**Thanks for reading!**
